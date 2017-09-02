@@ -1,7 +1,7 @@
 {
   "name": "unity-transition-interfaces",
-  "version": "0.0.1",
-  "description": "Transitions are behaviours that start and then run to completion with an option to cancel. The most common example is something like a FadeIn for a UI panel. The standalone interfaces package allows other packages to interact with transitions without a dependency on any implementation.",
+  "version": "0.0.2",
+  "description": "Transitions are behaviours that start and then run to completion with an option to cancel. An example is something like a FadeIn for a UI panel. The standalone interfaces package allows other packages to interact with transitions without a dependency on any implementation.",
   "main": "index.js",
   "repository": {
     "type": "git",
