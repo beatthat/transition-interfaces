@@ -1,6 +1,6 @@
 {
   "name": "transition-interfaces",
-  "scope": "ape",
+  "scope": "beatthat",
   "version": "1.0.0",
   "description": "Transitions are behaviours that start and then run to completion with an option to cancel. An example is something like a FadeIn for a UI panel. The standalone interfaces package allows other packages to interact with transitions without a dependency on any implementation.",
   "main": "index.js",
@@ -11,7 +11,9 @@
   "files": [
     "index.js",
     "scripts",
-    "src"
+    "src",
+    "Runtime",
+    "Samples"
   ],
   "author": "larrykirschner@gmail.com",
   "license": "MIT",
